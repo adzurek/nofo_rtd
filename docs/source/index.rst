@@ -2,6 +2,9 @@
 =========
 
 Api documentation 1.7
+
+Some additional info
+
 ======
 .. toctree::
    :caption: Getting Started
