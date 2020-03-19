@@ -4,7 +4,7 @@ $project
 TESTER
 ======
 .. toctree::
-   :caption: Getting Started
+   :caption: Getting Started...
    :hidden:
 
    overview
