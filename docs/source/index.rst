@@ -1,7 +1,7 @@
 |project|
 =========
 
-TESTER
+Api documentation
 ======
 .. toctree::
    :caption: Getting Started
