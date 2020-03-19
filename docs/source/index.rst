@@ -1,7 +1,7 @@
 |project|
 =========
 
-Api documentation 1.5
+Api documentation 1.7
 ======
 .. toctree::
    :caption: Getting Started
